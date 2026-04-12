@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0b0b0b;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+section {
+  margin-top: 56px;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+p, li {
+  font-size: 18px;
+  line-height: 1.6;
+}
